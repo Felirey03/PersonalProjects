@@ -4,7 +4,7 @@
     'description': 'Una aplicación para gestionar tus proyectos personales, tareas y progreso.',
     'license': 'AGPL-3',
     'author': 'Felipe',
-    'website': 'https://github.com/Felirey03',
+    'website': 'https://github.com/Felirey03/PersonalProjects',
     'category': 'Productividad',
     'depends': ['base'],
     'data': [],
