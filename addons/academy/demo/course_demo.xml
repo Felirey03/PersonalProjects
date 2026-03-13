@@ -14,11 +14,11 @@
                 Learn about Cost, pricing and Revenue Analysis.
             </field>
             <field name="level">intermediate</field>
-        </record>
+        </record>   
         <record id="course_03" model="academy.course">
             <field name="name">Website 500</field>
             <field name="description"></field>
-            <field name="level">advance</field>
+            <field name="level">advanced</field>
         </record>
     </data>
 </odoo>
