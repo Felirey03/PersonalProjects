@@ -17,6 +17,9 @@
                         </group>
                         <group>
                             <separator string="Other Fields"/>
+                            <field name="base_price"/>
+                            <field name="additional_fee"/>
+                            <field name="total_price" readonly="1"/>
                         </group>
                     </group>
 
@@ -37,6 +40,9 @@
                 <field name="name"/>
                 <field name="level"/>
                 <field name="description"/>
+                <field name="base_price"/>
+                <field name="additional_fee"/>
+                <field name="total_price" readonly="1"/>
                 <field name="create_date" optional="hide"/>
             </tree>
         </field>
