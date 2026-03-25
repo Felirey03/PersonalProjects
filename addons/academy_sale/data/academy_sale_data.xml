@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <data noupdate="1">
+    
+        <record id="course_product" model="product.template">
+            <field name="name">Course Fee</field>
+            <field name="detailed_type">course</field>
+        </record>
+    
+    </data>
+    
+
+</odoo>
